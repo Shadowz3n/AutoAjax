@@ -203,6 +203,4 @@ window.jQuery || document.write(unescape('%3Cscript src="http://jquery.com/jquer
 		});
 	}
 	$("body").formAjax();
-	
-	
 });
